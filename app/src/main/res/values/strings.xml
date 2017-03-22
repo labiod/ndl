@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NdkDynamicLoad</string>
+    <string name="check_version_button_text">Check version</string>
+</resources>
